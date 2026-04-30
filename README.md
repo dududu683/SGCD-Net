@@ -1,3 +1,4 @@
+
 # **Task-Driven Underwater Image Enhancement for Visual Measurement: A Statistical Prior Guided Diffusion Model**
 ## About
 This repository provides the complete training and inference code for the proposed statistical prior guided diffusion model. The method enhances degraded underwater images by embedding color statistical priors (mean, variance, skewness, kurtosis) into a conditional diffusion probabilistic framework, specifically designed to support downstream visual measurement tasks (edge detection, keypoint matching).
@@ -51,4 +52,6 @@ python inference.py
 ## Acknowledgements
 
 This work is supported by the National College Student Statistical Modeling Competition. The codebase builds upon open-source diffusion model implementations and underwater image enhancement benchmarks (UIEB, UFO-120).
+
 **Contact**[2071965940@qq.com]
+
